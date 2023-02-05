@@ -14,4 +14,5 @@ steps:
 - task: PythonScript@0
   inputs:
     scriptSource: inline
-    script: print("Hello Python!")
+    script: print("Hello Jython!")
+
